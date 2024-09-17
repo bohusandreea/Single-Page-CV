@@ -1,3 +1,3 @@
 ## Project URL
 
-[GitHub Repository](https://github.com/bohusandreea/Single-Page-CV.git)
+[Project Page](https://roadmap.sh/projects/single-page-cv)
